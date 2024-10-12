@@ -1,7 +1,5 @@
 <h1 style="text-align: center;">Pessoas No Parque</h1>
-<p align="center">
-  Uma breve descrição sobre o que esse projeto faz e para quem ele é.
-</p>
+"Pessoas No Parque" é um sistema de contagem e monitoramento de visitantes em parques. O projeto permite a contagem de pessoas que entram no parque, armazenando e exibindo o número total de visitantes presentes. Além disso, o sistema registra o histórico de contagem, permitindo a visualização de dados anteriores.
 
 ## Deploy
 [Pessoas No Parque](https://johnvitor-dev.github.io/PessoasNoParque/)
